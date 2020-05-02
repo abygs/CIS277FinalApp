@@ -6,4 +6,4 @@ This app is aimed towards teachers and administrators to help organize and store
 
 The app displays a menu with several options ranging from creating and deleting students and classes to enrollment and lists of students and classes. Based on the menu option selected, the app prompts the user for the necessary input and stores the information in the appropriate areas. 
 
-Click Here To Try The App!
+[Click Here To Try The App!](https://repl.it/@abygs/FinalApp)
