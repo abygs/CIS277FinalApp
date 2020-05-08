@@ -8,4 +8,4 @@ The app displays a menu with several options such as creating/deleting students 
 
 [Click Here To Try The App!](https://repl.it/@abygs/FinalApp)
 
-[Click Here To View The Code On GitHub!](https://github.com/abygs/CIS277FinalApp)
+[Click Here To View The Code On GitHub!](https://abygs.github.io/CIS277AppCode/)
